@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Weatherer">
+    <output-path>$PROJECT_DIR$/out/artifacts/Weatherer</output-path>
+    <root id="root">
+      <element id="module-output" name="Wetherer" />
+      <element id="library" level="project" name="javafx" />
+      <element id="library" level="project" name="json-20190722" />
+    </root>
+  </artifact>
+</component>
